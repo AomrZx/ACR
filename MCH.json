@@ -1,0 +1,15 @@
+{
+    "author":  "MCH",
+    "version":  "1.0",
+    "description":  "Machinist external ACR package adapted from PromeRotation DPS Machinist source.",
+    "supportedJobs":  [
+                          {
+                              "job":  "MCH",
+                              "contentScope":  "All"
+                          }
+                      ],
+    "apiVersion":  13,
+    "referencePromeVersion":  "1.5.2.1",
+    "downloadUrl":  "https://raw.githubusercontent.com/AomrZx/ACR/main/MCH.zip",
+    "sha256":  "25c49b76eb26626ceb0c60992358a67d08c9b25a47c5e91fe1553425feb6510e"
+}
