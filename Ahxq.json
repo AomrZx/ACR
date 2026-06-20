@@ -1,19 +1,19 @@
 {
-    "author":  "Ahxq",
-    "version":  "1.0",
-    "description":  "蝰蛇机工全等级日随高难；蝰蛇身位绘制需要额外安装并加载 mDraw 插件。",
-    "supportedJobs":  [
-                          {
-                              "job":  "MCH",
-                              "contentScope":  "All"
-                          },
-                          {
-                              "job":  "VPR",
-                              "contentScope":  "All"
-                          }
-                      ],
-    "apiVersion":  15,
-    "referencePromeVersion":  "1.5.2.2",
-    "downloadUrl":  "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
-    "sha256":  "a69960a9f11fc045e67d229ab1b3266c2360bcd68a7ca1c83a23514daf0420f0"
+  "author": "Ahxq",
+  "version": "1.0",
+  "description": "\u874e\u86c7\u673a\u5de5\u5168\u7b49\u7ea7\u65e5\u968f\u9ad8\u96be\uff1b\u874e\u86c7\u8eab\u4f4d\u7ed8\u5236\u9700\u8981\u989d\u5916\u5b89\u88c5\u5e76\u52a0\u8f7d mDraw \u63d2\u4ef6\u3002",
+  "supportedJobs": [
+    {
+      "job": "MCH",
+      "contentScope": "All"
+    },
+    {
+      "job": "VPR",
+      "contentScope": "All"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.2.3",
+  "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
+  "sha256": "89154104807aa360a64a644ab564223f3b93125e87822364ec03e479cbc46d92"
 }
